@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    background-color:rgba(255, 255, 255, 0.534);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(https://wallpapers.com/images/featured/bpyrqqxn43wgvser.jpg);
+    background-size: cover;
+}
+
+header{
+    align-items: center;
+    text-align: center;
+    padding-bottom: 3em;
+}
+.text-title{
+    color: rgb(70, 42, 31);
+    text-align: center;
+    text-shadow: 1px 1px 1px  #000000;
+    font-weight: bold;
+}
+.text-content{
+    background-color:rgba(255, 255, 255, 0.562);
+    opacity: 35;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    text-align: left;
+    border-collapse: collapse;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.text-list{
+    list-style-type: decimal;
+}
+.rodape{
+    text-align: end;
+}
